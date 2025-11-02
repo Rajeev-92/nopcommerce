@@ -1,0 +1,387 @@
+2025-09-07 21:38:11 - root - INFO - =========================Test_title_verification================================
+2025-09-07 21:38:11 - root - INFO - ========================Verification of admin login page title================================
+2025-09-07 21:38:14 - root - INFO - ========================Test_title_verification matched=======================
+2025-09-07 21:38:16 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-09-07 21:38:18 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-09-07 21:38:20 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-09-07 21:38:29 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-09-07 21:38:30 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-09-07 21:38:32 - root - INFO - ========================Test_blank_email_admin_login error message match====================
+2025-09-07 21:38:34 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-09-07 21:38:38 - root - INFO - ========================Test_valid_admin_login=======================
+2025-09-07 21:38:44 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-09-07 21:46:02 - root - INFO - =========================Test_01_admin_login================================
+2025-09-07 21:46:02 - root - INFO - ========================Verification of admin login page title================================
+2025-09-07 21:46:04 - root - INFO - ========================Test_title_verification matched=======================
+2025-09-07 21:46:05 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-09-07 21:46:08 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-09-07 21:46:10 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-09-07 21:46:11 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-09-07 21:46:13 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-09-07 21:46:15 - root - INFO - ========================Test_blank_email_admin_login error message match====================
+2025-09-07 21:46:17 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-09-07 21:46:19 - root - INFO - ========================Test_blank_password_admin_login error message match==============
+2025-09-07 21:46:21 - root - INFO - ========================Test_valid_admin_login=======================
+2025-09-07 21:46:24 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-09-08 21:35:33 - root - INFO - =========================Test_01_admin_login================================
+2025-09-08 21:35:33 - root - INFO - ========================Verification of admin login page title================================
+2025-09-08 21:35:34 - root - INFO - ========================Test_title_verification matched=======================
+2025-09-08 21:35:36 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-09-08 21:35:38 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-09-08 21:35:40 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-09-08 21:35:42 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-09-08 21:35:44 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-09-08 21:35:46 - root - INFO - ========================Test_blank_email_admin_login error message match====================
+2025-09-08 21:35:48 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-09-08 21:35:50 - root - INFO - ========================Test_blank_password_admin_login error message match==============
+2025-09-08 21:35:52 - root - INFO - ========================Test_valid_admin_login=======================
+2025-09-08 21:35:58 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-09-08 21:37:02 - root - INFO - =========================Test_01_admin_login================================
+2025-09-08 21:37:02 - root - INFO - ========================Verification of admin login page title================================
+2025-09-08 21:37:03 - root - INFO - ========================Test_title_verification matched=======================
+2025-09-08 21:37:05 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-09-08 21:37:08 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-09-08 21:37:10 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-09-08 21:37:12 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-09-08 21:37:14 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-09-08 21:37:16 - root - INFO - ========================Test_blank_email_admin_login error message match====================
+2025-09-08 21:37:18 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-09-08 21:37:21 - root - INFO - ========================Test_blank_password_admin_login error message match==============
+2025-09-08 21:37:22 - root - INFO - ========================Test_valid_admin_login=======================
+2025-09-08 21:37:28 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-09-08 21:38:12 - root - INFO - =========================Test_01_admin_login================================
+2025-09-08 21:38:12 - root - INFO - ========================Verification of admin login page title================================
+2025-09-08 21:38:13 - root - INFO - ========================Test_title_verification matched=======================
+2025-09-08 21:38:20 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-09-08 21:38:22 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-09-08 21:38:29 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-09-08 21:38:31 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-09-08 21:38:38 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-09-08 21:38:40 - root - INFO - ========================Test_blank_email_admin_login error message match====================
+2025-09-08 21:38:47 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-09-08 21:38:50 - root - INFO - ========================Test_blank_password_admin_login error message match==============
+2025-09-08 21:38:57 - root - INFO - ========================Test_valid_admin_login=======================
+2025-09-08 21:39:02 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-09-08 21:39:54 - root - INFO - =========================Test_01_admin_login================================
+2025-09-08 21:39:54 - root - INFO - ========================Verification of admin login page title================================
+2025-09-08 21:40:24 - root - INFO - ========================Test_title_verification matched=======================
+2025-09-08 21:40:26 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-09-08 21:40:28 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-09-08 21:40:30 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-09-08 21:40:32 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-09-08 21:40:34 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-09-08 21:40:38 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-09-08 21:40:40 - root - INFO - ========================Test_blank_password_admin_login error message match==============
+2025-09-08 21:40:42 - root - INFO - ========================Test_valid_admin_login=======================
+2025-09-08 21:40:47 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-09-08 21:52:46 - root - INFO - =========================Test_01_admin_login================================
+2025-09-08 21:52:46 - root - INFO - ========================Verification of admin login page title================================
+2025-09-08 21:52:46 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-09-08 21:52:47 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-09-08 21:52:48 - root - INFO - ========================Test_title_verification matched=======================
+2025-09-08 21:52:50 - root - INFO - ========================Test_blank_password_admin_login error message match==============
+2025-09-08 21:52:50 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-09-08 21:52:51 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-09-08 21:52:52 - root - INFO - ========================Test_valid_admin_login=======================
+2025-09-08 21:52:53 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-09-08 21:52:55 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-09-08 21:52:57 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-09-08 21:54:18 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-09-08 21:54:18 - root - INFO - ========================Verification of admin login page title================================
+2025-09-08 21:54:18 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-09-08 21:54:20 - root - INFO - ========================Test_title_verification matched=======================
+2025-09-08 21:54:22 - root - INFO - ========================Test_blank_password_admin_login error message match==============
+2025-09-08 21:54:22 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-09-08 21:54:23 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-09-08 21:54:25 - root - INFO - ========================Test_valid_admin_login=======================
+2025-09-08 21:54:25 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-09-08 21:54:27 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-09-08 21:54:31 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-09-08 21:55:15 - root - INFO - =========================Test_01_admin_login================================
+2025-09-08 21:55:15 - root - INFO - ========================Verification of admin login page title================================
+2025-09-08 21:55:16 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-09-08 21:55:16 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-09-08 21:55:18 - root - INFO - ========================Test_title_verification matched=======================
+2025-09-08 21:55:21 - root - INFO - ========================Test_blank_password_admin_login error message match==============
+2025-09-08 21:55:21 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-09-08 21:55:21 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-09-08 21:55:24 - root - INFO - ========================Test_valid_admin_login=======================
+2025-09-08 21:55:24 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-09-08 21:55:25 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-09-08 21:55:27 - root - INFO - ========================Test_blank_email_admin_login error message match====================
+2025-09-08 21:55:28 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-09-08 21:55:57 - root - INFO - =========================Test_01_admin_login================================
+2025-09-08 21:55:57 - root - INFO - ========================Verification of admin login page title================================
+2025-09-08 21:55:57 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-09-08 21:55:57 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-09-08 21:56:00 - root - INFO - ========================Test_title_verification matched=======================
+2025-09-08 21:56:02 - root - INFO - ========================Test_blank_password_admin_login error message match==============
+2025-09-08 21:56:03 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-09-08 21:56:03 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-09-08 21:56:06 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-09-08 21:56:07 - root - INFO - ========================Test_valid_admin_login=======================
+2025-09-08 21:56:08 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-09-08 21:56:09 - root - INFO - ========================Test_blank_email_admin_login error message match====================
+2025-09-08 21:56:13 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-09-08 21:56:41 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-09-08 21:56:41 - root - INFO - ========================Test_valid_admin_login=======================
+2025-09-08 21:56:41 - root - INFO - =========================Test_01_admin_login================================
+2025-09-08 21:56:41 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-09-08 21:56:41 - root - INFO - ========================Verification of admin login page title================================
+2025-09-08 21:56:42 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-09-08 21:56:43 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-09-08 21:56:45 - root - INFO - ========================Test_title_verification matched=======================
+2025-09-08 21:56:48 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-09-08 21:56:50 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-09-08 21:56:54 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-09-09 14:13:44 - root - INFO - =========================Test_01_admin_login================================
+2025-09-09 14:13:44 - root - INFO - ========================Verification of admin login page title================================
+2025-09-09 14:13:44 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-09-09 14:13:44 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-09-09 14:13:47 - root - INFO - ========================Test_title_verification matched=======================
+2025-09-09 14:13:49 - root - INFO - ========================Test_blank_password_admin_login error message match==============
+2025-09-09 14:13:50 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-09-09 14:13:51 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-09-09 14:13:53 - root - INFO - ========================Test_valid_admin_login=======================
+2025-09-09 14:13:55 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-09-09 14:13:58 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-09-09 14:14:00 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-09-09 14:14:00 - root - INFO - ========================Test_blank_email_admin_login error message match====================
+2025-09-09 14:17:59 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-09-09 14:17:59 - root - INFO - =========================Test_01_admin_login================================
+2025-09-09 14:17:59 - root - INFO - ========================Verification of admin login page title================================
+2025-09-09 14:18:00 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-09-09 14:18:01 - root - INFO - ========================Test_title_verification matched=======================
+2025-09-09 14:18:03 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-09-09 14:18:06 - root - INFO - ========================Test_blank_password_admin_login error message match==============
+2025-09-09 14:18:06 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-09-09 14:18:07 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-09-09 14:18:08 - root - INFO - ========================Test_valid_admin_login=======================
+2025-09-09 14:18:10 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-09-09 14:18:12 - root - INFO - ========================Test_blank_email_admin_login error message match====================
+2025-09-09 14:18:15 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-09-10 20:56:29 - root - INFO - =========================Test_01_admin_login================================
+2025-09-10 20:56:29 - root - INFO - ========================Verification of admin login page title================================
+2025-09-10 20:56:31 - root - INFO - ========================Test_title_verification matched=======================
+2025-09-10 20:56:33 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-09-10 20:56:37 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-09-10 20:56:39 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-09-10 20:56:41 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-09-10 20:56:45 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-09-10 20:56:48 - root - INFO - ========================Test_blank_password_admin_login error message match==============
+2025-09-10 20:56:49 - root - INFO - ========================Test_valid_admin_login=======================
+2025-09-10 20:56:56 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-09-10 21:18:39 - root - INFO - =========================Test_01_admin_login================================
+2025-09-10 21:18:39 - root - INFO - ========================Verification of admin login page title================================
+2025-09-10 21:18:41 - root - INFO - ========================Test_title_verification matched=======================
+2025-09-10 21:18:43 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-09-10 21:18:45 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-09-10 21:18:47 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-09-10 21:18:49 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-09-10 21:18:51 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-09-10 21:18:56 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-09-10 21:18:58 - root - INFO - ========================Test_blank_password_admin_login error message match==============
+2025-09-10 21:19:00 - root - INFO - ========================Test_valid_admin_login=======================
+2025-09-10 21:19:07 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-09-14 15:58:41 - root - INFO - =========================Test_invalid_email_admin_login_data_driven started=======================
+2025-09-14 16:02:08 - root - INFO - =========================Test_invalid_email_admin_login_data_driven started=======================
+2025-09-14 16:04:01 - root - INFO - =========================Test_invalid_email_admin_login_data_driven started=======================
+2025-09-14 16:11:43 - root - INFO - =========================Test_invalid_email_admin_login_data_driven started=======================
+2025-09-14 16:11:55 - root - INFO - ========================Test data is passed=======================
+2025-09-14 16:12:05 - root - INFO - ========================Test data is passed=======================
+2025-09-14 16:13:19 - root - INFO - =========================Test_invalid_email_admin_login_data_driven started=======================
+2025-09-14 16:15:07 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 16:22:48 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 16:31:26 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 16:44:33 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 17:02:52 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 17:04:49 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 17:05:03 - root - INFO - ========================Test data is failed=======================
+2025-09-14 17:09:58 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 17:10:13 - root - INFO - ========================Test data is failed=======================
+2025-09-14 17:11:17 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 17:11:30 - root - INFO - ========================Test data is failed=======================
+2025-09-14 17:11:42 - root - INFO - ========================Test data is passed=======================
+2025-09-14 17:18:33 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 17:18:48 - root - INFO - ========================Test data is failed=======================
+2025-09-14 17:19:01 - root - INFO - ========================Test data is passed=======================
+2025-09-14 17:22:45 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 17:23:02 - root - INFO - ========================Test data is passed=======================
+2025-09-14 17:23:16 - root - INFO - ========================Test data is passed=======================
+2025-09-14 17:32:49 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 17:33:04 - root - INFO - ========================Test data is passed=======================
+2025-09-14 17:33:16 - root - INFO - ========================Test data is passed=======================
+2025-09-14 19:40:08 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 19:40:23 - root - INFO - ========================Test data is passed=======================
+2025-09-14 19:40:36 - root - INFO - ========================Test data is passed=======================
+2025-09-14 20:23:36 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 20:23:52 - root - INFO - ========================Test data is passed=======================
+2025-09-14 20:24:04 - root - INFO - ========================Test data is passed=======================
+2025-09-14 20:33:30 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 20:33:43 - root - INFO - ========================Test data is passed=======================
+2025-09-14 20:33:56 - root - INFO - ========================Test data is passed=======================
+2025-09-14 20:46:16 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 20:46:28 - root - INFO - ========================Test data is passed=======================
+2025-09-14 20:46:41 - root - INFO - ========================Test data is passed=======================
+2025-09-14 20:46:51 - root - INFO - ========================Test data is passed=======================
+2025-09-14 20:47:01 - root - INFO - ========================Test data is passed=======================
+2025-09-14 20:47:12 - root - INFO - ========================Test data is passed=======================
+2025-09-14 20:47:12 - root - INFO - ========================Test admin data driven test is Passed=======================
+2025-09-14 21:05:38 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-14 21:05:53 - root - INFO - ========================Test data is passed=======================
+2025-09-14 21:06:05 - root - INFO - ========================Test data is passed=======================
+2025-09-14 21:06:05 - root - INFO - Skipping row 4 due to blank username or password
+2025-09-14 21:06:05 - root - INFO - Skipping row 5 due to blank username or password
+2025-09-14 21:06:15 - root - INFO - ========================Test data is passed=======================
+2025-09-14 21:06:15 - root - INFO - ========================Test admin data driven test is Passed=======================
+2025-09-27 18:21:38 - root - INFO - =========================Test_admin_login_data_driven started=======================
+2025-09-27 18:21:50 - root - INFO - ========================Test data is passed=======================
+2025-09-27 18:22:05 - root - INFO - ========================Test data is passed=======================
+2025-09-27 18:22:05 - root - INFO - Skipping row 4 due to blank username or password
+2025-09-27 18:22:05 - root - INFO - Skipping row 5 due to blank username or password
+2025-09-27 18:22:16 - root - INFO - ========================Test data is passed=======================
+2025-09-27 18:22:16 - root - INFO - ========================Test admin data driven test is Passed=======================
+2025-09-27 18:30:18 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 18:30:23 - root - INFO - ==========Login Completed==========
+2025-09-27 18:30:23 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 18:34:26 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 18:34:30 - root - INFO - ==========Login Completed==========
+2025-09-27 18:34:30 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 18:36:02 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 18:36:05 - root - INFO - ==========Login Completed==========
+2025-09-27 18:36:05 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 19:07:39 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:07:43 - root - INFO - ==========Login Completed==========
+2025-09-27 19:07:43 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 19:10:23 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:10:27 - root - INFO - ==========Login Completed==========
+2025-09-27 19:10:27 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 19:17:42 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:17:46 - root - INFO - ==========Login Completed==========
+2025-09-27 19:17:46 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 19:17:48 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 19:19:43 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:19:49 - root - INFO - ==========Login Completed==========
+2025-09-27 19:19:49 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 19:22:51 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:22:56 - root - INFO - ==========Login Completed==========
+2025-09-27 19:22:56 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 19:22:59 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 19:26:06 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:26:10 - root - INFO - ==========Login Completed==========
+2025-09-27 19:26:10 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 19:26:14 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 19:30:07 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:32:23 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:32:27 - root - INFO - ==========Login Completed==========
+2025-09-27 19:32:27 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 19:32:29 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 19:36:15 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:37:31 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:37:35 - root - INFO - ==========Login Completed==========
+2025-09-27 19:37:35 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 19:37:39 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 19:39:35 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:44:39 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:46:00 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:46:06 - root - INFO - ==========Login Completed==========
+2025-09-27 19:46:06 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 19:46:10 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 19:49:19 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:49:41 - root - INFO - ==========Login Completed==========
+2025-09-27 19:49:41 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 19:50:02 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:50:09 - root - INFO - ==========Login Completed==========
+2025-09-27 19:50:09 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 19:50:17 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 19:57:42 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:57:51 - root - INFO - ==========Login Completed==========
+2025-09-27 19:57:51 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 19:58:05 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 19:59:38 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 19:59:44 - root - INFO - ==========Login Completed==========
+2025-09-27 19:59:44 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 19:59:47 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 20:03:27 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 20:03:32 - root - INFO - ==========Login Completed==========
+2025-09-27 20:03:32 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 20:03:35 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 20:35:48 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 20:35:52 - root - INFO - ==========Login Completed==========
+2025-09-27 20:35:52 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 20:35:55 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 20:38:23 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 20:38:27 - root - INFO - ==========Login Completed==========
+2025-09-27 20:38:27 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 20:38:31 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 20:39:46 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 20:39:50 - root - INFO - ==========Login Completed==========
+2025-09-27 20:39:50 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 20:40:46 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 20:40:50 - root - INFO - ==========Login Completed==========
+2025-09-27 20:40:50 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 20:40:53 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 20:41:50 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 20:41:54 - root - INFO - ==========Login Completed==========
+2025-09-27 20:41:54 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 20:41:57 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 20:45:49 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 20:45:52 - root - INFO - ==========Login Completed==========
+2025-09-27 20:45:52 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 20:45:56 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 20:57:38 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 20:57:41 - root - INFO - ==========Login Completed==========
+2025-09-27 20:57:41 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 20:57:45 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 21:03:45 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 21:03:49 - root - INFO - ==========Login Completed==========
+2025-09-27 21:03:49 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 21:03:52 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 21:05:36 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 21:05:42 - root - INFO - ==========Login Completed==========
+2025-09-27 21:05:42 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 21:06:21 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 21:06:25 - root - INFO - ==========Login Completed==========
+2025-09-27 21:06:25 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 21:06:28 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 21:06:32 - root - INFO - =================nopCommerce admin demo store selected==========
+2025-09-27 21:23:07 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 21:23:14 - root - INFO - ==========Login Completed==========
+2025-09-27 21:23:14 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 21:24:00 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 21:24:05 - root - INFO - ==========Login Completed==========
+2025-09-27 21:24:05 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 21:24:07 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 21:24:11 - root - INFO - =================nopCommerce admin demo store selected==========
+2025-09-27 21:26:17 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 21:26:25 - root - INFO - ==========Login Completed==========
+2025-09-27 21:26:25 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 21:26:28 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 21:27:58 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 21:28:03 - root - INFO - ==========Login Completed==========
+2025-09-27 21:28:03 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 21:28:06 - root - INFO - ==========Providing Add New Customer info==========
+2025-09-27 21:32:39 - root - INFO - ==========Test_03_Add_New_Customer started==========
+2025-09-27 21:32:56 - root - INFO - ==========Login Completed==========
+2025-09-27 21:32:56 - root - INFO - ==========Starting Add New Customer==========
+2025-09-27 21:32:59 - root - INFO - ==========Providing Add New Customer info==========
+2025-11-02 18:05:07 - root - INFO - =========================Test_01_admin_login================================
+2025-11-02 18:05:07 - root - INFO - ========================Verification of admin login page title================================
+2025-11-02 18:05:12 - root - INFO - ========================Test_title_verification matched=======================
+2025-11-02 18:05:14 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-11-02 18:05:19 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-11-02 18:05:21 - root - INFO - =========================Test_invalid_password_admin_login=====================
+2025-11-02 18:05:25 - root - INFO - ========================Test_invalid_password_admin_login error message match====================
+2025-11-02 18:05:27 - root - INFO - =========================Test_blank_email_admin_login=====================
+2025-11-02 18:05:32 - root - INFO - ========================Test_blank_email_admin_login error message match====================
+2025-11-02 18:05:34 - root - INFO - ========================Test_blank_password_admin_login=====================
+2025-11-02 18:05:39 - root - INFO - ========================Test_blank_password_admin_login error message match==============
+2025-11-02 18:05:42 - root - INFO - ========================Test_valid_admin_login=======================
+2025-11-02 18:05:47 - root - INFO - ========================Test_valid_admin_login message matched=================
+2025-11-02 19:57:49 - root - INFO - =========================Test_01_admin_login================================
+2025-11-02 19:57:49 - root - INFO - ========================Verification of admin login page title================================
+2025-11-02 19:57:51 - root - INFO - ========================Test_title_verification matched=======================
+2025-11-02 19:57:52 - root - INFO - =========================Test_invalid_email_admin_login=======================
+2025-11-02 19:57:54 - root - INFO - ========================Test_invalid_email_admin_login error message match========================
+2025-11-02 19:57:56 - root - INFO - ========================Test_valid_admin_login=======================
+2025-11-02 19:58:01 - root - INFO - ========================Test_valid_admin_login message matched=================
